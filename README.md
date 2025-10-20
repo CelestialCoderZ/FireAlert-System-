@@ -86,14 +86,27 @@ A sophisticated flame detection system built with Arduino Uno, featuring real-ti
        - Adjust threshold in code:
              | int flameThreshold = 500; |  (Change this value)
 
+## 🚨 Alert Patterns
+| SITUATION | BUZZER PATTERN | DISPLAY |
+|-----------|---------------|---------------|
+| Fire Detected | Rapid beeping (3 quick beeps) | Red Screen |
+| System Safe | Silent | Green screen |
+| Test Mode | Multiple patterns | Orange screen |
+| Calibration | Confirmation beeps | 	Purple screen |
+
 ## 🚀 Future Enhancements
    - GSM module for SMS alerts
    - WiFi connectivity for remote monitoring
    - Multiple sensor support
    - SD card data logging
    - Mobile app integration
-   - Cloud platform connectivity
+   - Cloud platform connectivity  
 
+## 🎯 Applications
+   - 🏠 Home Safety - Kitchen fire detection
+   - 🏭 Industrial Use - Machinery monitoring
+   - 🔬 Laboratory Safety - Experiment monitoring
+   - 🎓 Educational Projects - Embedded systems learning
 ## 🤝 Contributing
 
 Contributions are welcome! Here are ways you can help:
@@ -114,23 +127,27 @@ Contributions are welcome! Here are ways you can help:
     3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
     4. Push to the branch (`git push origin feature/AmazingFeature`)
     5. Open a Pull Request
-    
+
 ## 🙏 Acknowledgments
      
 - Adafruit Industries for ST7789 library
 - Arduino community for continuous support
 - Open-source hardware and software contributors
 
+
 ## Contact Me
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
  - Name: Anuprabha Bag
  - Email: [anuprabhabag2004ind@gmail.com]
- - LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/anuprabha-bag-b98359260/)  
- - GitHub: [github.com/yourusername](https://github.com/CelestialCoderZ)  
+ - LinkedIn: linkedin.com/in/yourprofile
+ - GitHub: github.com/yourusername
 💡 I’d love to connect and collaborate on exciting projects!
 
-⭐ If you find this project helpful, don't forget to give it a star!
-                                                                              "Early Detection Saves Lives" 🔥🚨
+<div align="center">
 
+⭐ If you find this project helpful, don't forget to give it a star!
+"Early Detection Saves Lives" 🔥🚨
+
+</div>
 
