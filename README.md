@@ -140,8 +140,8 @@ If you have any questions, suggestions, or feedback, feel free to reach out:
 
  - Name: Anuprabha Bag
  - Email: [anuprabhabag2004ind@gmail.com]
- - LinkedIn: linkedin.com/in/yourprofile
- - GitHub: github.com/yourusername
+ - LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/anuprabha-bag-b98359260/)  
+ - GitHub: [github.com/yourusername](https://github.com/CelestialCoderZ)  
 💡 I’d love to connect and collaborate on exciting projects!
 
 <div align="center">
